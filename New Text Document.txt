@@ -1,3 +1,4 @@
 class xyz{
 public int a;
+void sub();
 }
