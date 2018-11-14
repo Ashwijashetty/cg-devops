@@ -1,3 +1,5 @@
 class xyz{
-void add()
+void add(){
+int c=20;
+}
 }
