@@ -1,4 +1,6 @@
 class xyz{
 public int a;
-void sub();
+void sub(){
+int b=10;
+}
 }
